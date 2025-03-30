@@ -1448,6 +1448,7 @@
 .side-content-button {
     position: relative;
     display: block;
+    padding: 10px;
 }
 
 .side-content-button a {
