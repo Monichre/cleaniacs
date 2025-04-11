@@ -1,3 +1,5 @@
+
+style.css
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -1991,7 +1993,7 @@ select:focus {
     border-top-color: rgba(255, 255, 255, 0.7);
 }
 
-/* AnimaciĆĀ³n del preloader */
+/* AnimaciĆƒĀ³n del preloader */
 @keyframes spinner {
     to {
         transform: rotateZ(360deg);
